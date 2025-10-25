@@ -1,2 +1,2 @@
-# this-is-for-testing
-This repository is for testing some webpages and apps in development.
+###这个仓库只是用来测试###
+此仓库只用来测试正在开发中的网站和应用程序，不会用来做别的事情！
